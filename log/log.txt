@@ -1,0 +1,139 @@
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728958.484
+Uso de memória: 91.72087970773507%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2728994.125
+Uso de memória: 92.74020625230102%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729019.671
+Uso de memória: 93.09218644431229%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729107.359
+Uso de memória: 93.08460066431203%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729110.375
+Uso de memória: 93.24956609338399%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729113.375
+Uso de memória: 91.81838226667152%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729116.39
+Uso de memória: 92.21142681441744%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729119.406
+Uso de memória: 91.26502490158715%
+
+Nome do computador: DESKTOP-A33B7MS
+Sistema operacionalwin3210.0.19045
+Arquitetura: x64
+Cpu:Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz
+Tempo de atividade: 2729122.406
+Uso de memória: 91.65715915573303%
